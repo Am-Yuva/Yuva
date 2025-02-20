@@ -1,0 +1,8 @@
+Date,Product,Category,Sales,QuantitySold,CustomerLocation,Profit,Discount,
+01-01-2024,Laptop,Electronics,75000,3,Mumbai,12000,5%,
+02-01-2024,Smartphone,Electronics,30000,5,Delhi,5000,10%,
+03-01-2024,Sofa,Furniture,15000,2,Bangalore,2500,8%,
+04-01-2024,Headphones,Electronics,5000,4,Chennai,1000,7%,
+05-01-2024,Dining Table,Furniture,20000,1,Pune,3500,5%,
+,,,,,,,,
+,,,,,,,,
